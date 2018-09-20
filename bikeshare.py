@@ -9,7 +9,8 @@ import calendar
 CITY_DATA = {'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv'}
-
+# I like pie
+# hehehe
 def get_city():
     """
     Asks user to specify a city to analyze.
@@ -34,7 +35,7 @@ def get_city():
             return get_city()
 
 
-
+#I like pizza
 def get_month():
     """
     Asks user to specify a month between January and July
