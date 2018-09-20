@@ -12,3 +12,6 @@ bikeshare.py, chicago.csv, new_york_city.csv
 
 ### Credits
 Credit goes out to he Udacity team for this project, Motivate for the bikeshare data, and the coding community on Stack Overflow and github.
+
+### Additional Changes
+Keeping this empty just for fun
